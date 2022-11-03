@@ -44,11 +44,11 @@ class App extends Component {
 
 
   async componentDidMount() {
-    const API1 = 'http://api.nbp.pl/api/cenyzlota/'
+    const API1 = 'https://api.nbp.pl/api/cenyzlota/'
     const response = await fetch(API1)
     const data = await response.json();
 
-    const API2 = 'http://api.nbp.pl/api/exchangerates/tables/a/'
+    const API2 = 'https://api.nbp.pl/api/exchangerates/tables/a/'
     const response2 = await fetch(API2)
     const data2 = await response2.json();
 
