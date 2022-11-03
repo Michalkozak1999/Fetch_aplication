@@ -1,0 +1,67 @@
+.state_intereset{
+
+}
+
+.state_intereset h3{
+margin: 0;
+text-align: center;
+}
+
+.state_interest_map{
+    font-size: 17px;
+    font-weight: bold;
+    display: grid;
+    grid-template-columns: 1, auto;
+   
+}
+
+.state_map{
+    margin-left: 6px;
+    margin-top: 8px;
+    display: flex;
+    justify-content:space-between;
+}
+
+.state_map span{
+   
+
+
+}
+
+.bargold{
+    text-align: center;
+    font-weight: 700;
+}
+
+.bargold h4{
+    margin-bottom: 0px;
+}
+
+.bargold img {
+    max-width: 50%;
+    margin-top: 15px;
+}
+.center_name{
+    margin-top: 40px;
+}
+.namenbp{
+ 
+ height: 200px;
+display: flex;
+
+align-items: center;
+
+}
+
+.namenbp_center{
+text-align: center;
+
+width: 100%;
+}
+
+.namenbp_center img{
+    max-width: 100px;
+    min-height: 100px;
+    border-radius: 50%;
+    border: solid black 2px;
+}

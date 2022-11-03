@@ -1,0 +1,65 @@
+.heder{
+    height: 70px;
+   
+    display: grid;
+    grid-template-columns: repeat(4, 200px);
+    justify-content:flex-start;
+    width: 100%;
+    background-image: url("../img/pobrane.jpg");
+background-position-y: center;
+background-repeat: no-repeat;
+background-position-x: center;
+background-color: rgba(19, 19, 19, 0.637);
+filter: invert(100%);
+    
+}
+
+.list{
+    list-style-type: none;
+    text-decoration: none;
+    font-size: 20px;
+    text-align: center;
+    margin-top: auto;
+    margin-bottom: auto;
+    
+  
+    width: 150px;
+    animation: none;
+  
+}
+
+.list a:hover{
+    border-bottom: 3px rgb(241, 241, 241) solid;
+    cursor: pointer;
+   
+    animation-name: look;
+    animation-duration: 1.6s;
+    
+}
+
+
+.list li{
+    display: flex;
+    width: 150px;
+    ;
+    background-color: rgb(195, 182, 162);
+}
+.list a{
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  border-radius: 10px;
+  text-transform: uppercase;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+
+
+
+
+.list a.active {
+    transform: translateX(0);
+    border-bottom: 6px red solid;
+
+}

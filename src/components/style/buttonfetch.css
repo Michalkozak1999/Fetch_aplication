@@ -1,0 +1,21 @@
+.buttonFetch{
+    max-height: 40px;
+    margin-bottom: 40px;
+    font-size: 20px;
+    
+}
+
+.buttonFetch button{
+padding: 10px 15px ;
+margin-top: 5px;
+background-color: rgba(0, 0, 0, 0.315);
+border-radius: 20px;
+text-transform: uppercase;
+font-weight: 700;
+
+}
+
+.buttonFetch button:hover{
+    background-color: aliceblue;
+    cursor: pointer;
+}

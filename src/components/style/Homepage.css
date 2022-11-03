@@ -1,0 +1,16 @@
+.nbp1{
+   max-width: 80%;
+    display: flex;
+   margin-right: auto;
+   margin-left: auto;
+}
+
+.nbp1 img{
+    max-width: 90%;
+    max-height: 250px;
+    min-height: 250px;
+ border-radius: 20px;
+    transition: 1.5s;
+    
+}
+
