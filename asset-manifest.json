@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Fetch_aplication/static/css/main.5274e880.css",
-    "main.js": "/Fetch_aplication/static/js/main.8754e504.js",
+    "main.css": "/Fetch_aplication/static/css/main.613eadb6.css",
+    "main.js": "/Fetch_aplication/static/js/main.a54d0114.js",
     "static/media/profgalp.jpg": "/Fetch_aplication/static/media/profgalp.adc78cb8f076d2fc8bad.jpg",
     "static/media/gold.png": "/Fetch_aplication/static/media/gold.e5ca7856f9e5c31fb51d.png",
     "static/media/warszawa.jpg": "/Fetch_aplication/static/media/warszawa.93bf6ef4192d41f92e93.jpg",
@@ -12,11 +12,11 @@
     "static/media/nbp2.jpeg": "/Fetch_aplication/static/media/nbp2.62d109ddf28161b9bd82.jpeg",
     "static/media/pobrane.jpg": "/Fetch_aplication/static/media/pobrane.1fbf830fa7ce7b45b84f.jpg",
     "index.html": "/Fetch_aplication/index.html",
-    "main.5274e880.css.map": "/Fetch_aplication/static/css/main.5274e880.css.map",
-    "main.8754e504.js.map": "/Fetch_aplication/static/js/main.8754e504.js.map"
+    "main.613eadb6.css.map": "/Fetch_aplication/static/css/main.613eadb6.css.map",
+    "main.a54d0114.js.map": "/Fetch_aplication/static/js/main.a54d0114.js.map"
   },
   "entrypoints": [
-    "static/css/main.5274e880.css",
-    "static/js/main.8754e504.js"
+    "static/css/main.613eadb6.css",
+    "static/js/main.a54d0114.js"
   ]
 }
