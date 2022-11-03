@@ -80,7 +80,7 @@ class App extends Component {
   }
 
   handleDataFetch = () => {
-    const API = `http://api.nbp.pl/api/cenyzlota/last/${this.state.counter}`
+    const API = `https://api.nbp.pl/api/cenyzlota/last/${this.state.counter}`
     fetch(API)
       .then(response => {
         if (response.ok) {
