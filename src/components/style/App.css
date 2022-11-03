@@ -35,7 +35,7 @@ text-align: center;
 display: grid;
 grid-template-columns: repeat(1, 100%);
 
-grid-template-rows: repeat(1, 400px 300px 70px);
+grid-template-rows: repeat(1, 400px 100px 70px);
 row-gap: 20px;
 min-width: 600px;
  
